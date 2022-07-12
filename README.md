@@ -4,6 +4,7 @@
 [![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=393939)](https://cyclonedx.org/slack/invite)
 [![Group Discussion](https://img.shields.io/badge/discussion-groups.io-blue.svg)](https://groups.io/g/CycloneDX)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/CycloneDX_Spec)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMaGicGiRl-ZhaNgbeIHai%2Fspecification.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMaGicGiRl-ZhaNgbeIHai%2Fspecification?ref=badge_shield)
 
 # CycloneDX Specification
 CycloneDX is a lightweight Software Bill of Materials (SBOM) specification designed for use in application security 
@@ -75,3 +76,6 @@ Permission to modify and redistribute is granted under the terms of the [Apache 
 [spdx-url]: https://spdx.org
 [swid-url]: https://www.iso.org/standard/65666.html
 [cpe-url]: https://nvd.nist.gov/products/cpe
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMaGicGiRl-ZhaNgbeIHai%2Fspecification.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMaGicGiRl-ZhaNgbeIHai%2Fspecification?ref=badge_large)
